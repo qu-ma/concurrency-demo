@@ -19,5 +19,4 @@ public class SingleThread implements Computation {
     }
     return Math.exp(logSum / data.length);
   }
-
 }
